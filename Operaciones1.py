@@ -518,7 +518,6 @@ class Operaciones:
         return kilometros
 
 var = Operaciones()
-var.operaciones()
 
 
 
