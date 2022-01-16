@@ -985,28 +985,6 @@ class Tarea:
                 print("opcion invalida")
     
     def eje2(salf):
-        # """Crea un programa para gestionar datos de los socios de un club, permitiendo:
-
-        # Cargar informacion de los socios en un diccionario para acceder por numero de socio.
-        # los datos a almacenar son: Numero, Nombre y apellido, fecha de ingreso(ddmmaaaa), cuota
-        # al dia(s/n). El programa debe iniciar con los datos de los socios fundadores ya cargados:
-        # socio nº1= Amanda Núñez,ingreso:17/03/2009, cuota al dia.
-        # socio nº2= Bárbara Molina,ingreso:17/03/2009, cuota al dia.
-        # socio nº3= Laurato Campos,ingreso:17/03/2009, cuota al dia.
-
-        # informar cantidad de socios del club.
-
-        # solicitar al usuario el numero de socio y registrar que ha pagados las cuotas adecuadas.
-
-        # modificar la fecha de ingreso de todos los socios ingresados el 13/03/2018, para indicar
-        # que en realidad ingresaron el 14/03/2018.
-
-        # soliciar el nombre y apellido de un socio y darle de baja (eliminarlo del listado).
-
-        # Imprimir el listado de socios completo."""
-
-
-
         socios_activos = {1:["Amanda Nuñez","17032009",True], 2:["Barbara Molina","17032009",True], 3:["Lautaro Campos","17032009",True]}
         print("***Cargar socios***")
         def cargarsocios(socios):
