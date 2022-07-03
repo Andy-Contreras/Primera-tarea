@@ -1,0 +1,22 @@
+.rg4{
+    padding-top: 250px;
+    padding-bottom: 105px;
+    
+}
+.rg4 .central{
+    text-align: center;
+}
+
+.container .border{
+    
+    border-radius: 30px;
+    padding: 15px;
+    margin-left: 34px;
+}
+.rg4 .border{
+    box-shadow: -1pc 5px aqua;
+}
+
+.rg4 .col:hover {
+    font-size: 2rem;
+    color:#1717FF}
